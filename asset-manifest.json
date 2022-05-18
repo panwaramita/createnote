@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/createnote/static/css/main.560fa221.css",
+    "main.js": "/createnote/static/js/main.cd683d25.js",
+    "index.html": "/createnote/index.html",
+    "main.560fa221.css.map": "/createnote/static/css/main.560fa221.css.map",
+    "main.cd683d25.js.map": "/createnote/static/js/main.cd683d25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.560fa221.css",
+    "static/js/main.cd683d25.js"
+  ]
+}
