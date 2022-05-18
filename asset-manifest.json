@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/createnote/static/css/main.560fa221.css",
-    "main.js": "/createnote/static/js/main.cd683d25.js",
+    "main.js": "/createnote/static/js/main.df121251.js",
     "index.html": "/createnote/index.html",
     "main.560fa221.css.map": "/createnote/static/css/main.560fa221.css.map",
-    "main.cd683d25.js.map": "/createnote/static/js/main.cd683d25.js.map"
+    "main.df121251.js.map": "/createnote/static/js/main.df121251.js.map"
   },
   "entrypoints": [
     "static/css/main.560fa221.css",
-    "static/js/main.cd683d25.js"
+    "static/js/main.df121251.js"
   ]
 }
